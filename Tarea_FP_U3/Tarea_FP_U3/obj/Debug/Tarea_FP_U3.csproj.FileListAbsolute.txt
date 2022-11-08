@@ -1,0 +1,8 @@
+C:\Users\Ariel\source\repos\Tarea_FP_U3\Tarea_FP_U3\bin\Debug\Tarea_FP_U3.exe.config
+C:\Users\Ariel\source\repos\Tarea_FP_U3\Tarea_FP_U3\bin\Debug\Tarea_FP_U3.exe
+C:\Users\Ariel\source\repos\Tarea_FP_U3\Tarea_FP_U3\bin\Debug\Tarea_FP_U3.pdb
+C:\Users\Ariel\source\repos\Tarea_FP_U3\Tarea_FP_U3\obj\Debug\Tarea_FP_U3.csproj.AssemblyReference.cache
+C:\Users\Ariel\source\repos\Tarea_FP_U3\Tarea_FP_U3\obj\Debug\Tarea_FP_U3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ariel\source\repos\Tarea_FP_U3\Tarea_FP_U3\obj\Debug\Tarea_FP_U3.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\source\repos\Tarea_FP_U3\Tarea_FP_U3\obj\Debug\Tarea_FP_U3.exe
+C:\Users\Ariel\source\repos\Tarea_FP_U3\Tarea_FP_U3\obj\Debug\Tarea_FP_U3.pdb
